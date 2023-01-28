@@ -1,6 +1,6 @@
 function badel(){
-    femele= ["AngryFemel.JFIF","ConfusedFemel.JPG","HappyFemel.JPG","SadFemel.PNG"];
-    male = ["AngyMale.JPG","ConfusedeMale.JPG",'HappyMale.JPG','SadMale.jpg'];
+    femele= ["AngryFemel.jfif","ConfusedFemel.jpf","HappyFemel.jpg","SadFemel.png"];
+    male = ["AngyMale.jpg","ConfusedeMale.jpg",'HappyMale.jpg','SadMale.jpg'];
     b= Math.floor(Math.random() * 4);
     a= document.getElementsByName('aziz');
     c=document.getElementById('des')
