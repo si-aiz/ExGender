@@ -1,0 +1,24 @@
+#des{
+	width: 100px;
+	height: 40px; 
+	text-align: center;
+	padding-top: 15px;
+
+}
+h1{
+	animation: gender 8s 2s infinite;
+}
+@keyframes gender{
+	3%{
+		color:red;
+	}
+	20%{
+		color: purple;
+	}
+	50%{
+		color: blue;
+	}
+	80%{
+		color:yellow;
+	}
+}
